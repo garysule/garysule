@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**garysule/garysule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gary, a Computer Science Master's student interested in **Cybersecurity, DevOps, and Cloud**.
 
-Here are some ideas to get you started:
+### 🌱 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Cybersecurity and security fundamentals
+* Python and scripting
+* DevOps and automation
+* Cloud technologies
+* Networking and system security
+
+### 🔭 Currently working on
+
+Building small practical projects to develop my technical skills and learn through hands-on experience.
+
+### 🎯 Goals
+
+I'm working towards a career in **Cybersecurity and DevOps** and looking to continuously expand my knowledge through projects, experimentation, and learning.
+
+### 🛠️ Technologies I'm learning
+
+**Python • Git • Linux • KQL • Cloud • Networking • Security**
+
+### 📫 Connect with me
+
+**LinkedIn:** Gary Suleiman
+
